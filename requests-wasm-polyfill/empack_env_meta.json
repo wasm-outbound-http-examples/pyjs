@@ -1,0 +1,68 @@
+{
+    "prefix": "/",
+    "packages": [
+        {
+            "name": "wheel",
+            "version": "0.38.4",
+            "build": "pyhd8ed1ab_0",
+            "filename_stem": "wheel-0.38.4-pyhd8ed1ab_0",
+            "filename": "wheel-0.38.4-pyhd8ed1ab_0.tar.gz"
+        },
+        {
+            "name": "numpy",
+            "version": "1.25.2",
+            "build": "py310h6d2fff6_0",
+            "filename_stem": "numpy-1.25.2-py310h6d2fff6_0",
+            "filename": "numpy-1.25.2-py310h6d2fff6_0.tar.gz"
+        },
+        {
+            "name": "setuptools",
+            "version": "64.0.0",
+            "build": "py310h8bed8af_0",
+            "filename_stem": "setuptools-64.0.0-py310h8bed8af_0",
+            "filename": "setuptools-64.0.0-py310h8bed8af_0.tar.gz"
+        },
+        {
+            "name": "pyparsing",
+            "version": "3.0.9",
+            "build": "pyhd8ed1ab_0",
+            "filename_stem": "pyparsing-3.0.9-pyhd8ed1ab_0",
+            "filename": "pyparsing-3.0.9-pyhd8ed1ab_0.tar.gz"
+        },
+        {
+            "name": "emscripten-abi",
+            "version": "3.1.27",
+            "build": "hb0f4dca_6",
+            "filename_stem": "emscripten-abi-3.1.27-hb0f4dca_6",
+            "filename": "emscripten-abi-3.1.27-hb0f4dca_6.tar.gz"
+        },
+        {
+            "name": "requests-wasm-polyfill",
+            "version": "0.3.0",
+            "build": "h8bed8af_0",
+            "filename_stem": "requests-wasm-polyfill-0.3.0-h8bed8af_0",
+            "filename": "requests-wasm-polyfill-0.3.0-h8bed8af_0.tar.gz"
+        },
+        {
+            "name": "python",
+            "version": "3.10.2",
+            "build": "h_hash_28_cpython",
+            "filename_stem": "python-3.10.2-h_hash_28_cpython",
+            "filename": "python-3.10.2-h_hash_28_cpython.tar.gz"
+        },
+        {
+            "name": "pip",
+            "version": "22.3.1",
+            "build": "pyhd8ed1ab_0",
+            "filename_stem": "pip-22.3.1-pyhd8ed1ab_0",
+            "filename": "pip-22.3.1-pyhd8ed1ab_0.tar.gz"
+        },
+        {
+            "name": "pyjs",
+            "version": "1.1.0",
+            "build": "hc96583f_0",
+            "filename_stem": "pyjs-1.1.0-hc96583f_0",
+            "filename": "pyjs-1.1.0-hc96583f_0.tar.gz"
+        }
+    ]
+}
