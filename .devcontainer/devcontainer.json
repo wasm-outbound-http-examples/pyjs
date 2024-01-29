@@ -1,0 +1,15 @@
+{
+    "name": "PyJS: HTTP request from WASM",
+    "image": "ubuntu:jammy",
+    "features": {
+        "ghcr.io/devcontainers/features/common-utils": {}
+    },
+    "postCreateCommand": "bash .devcontainer/postCreate.sh",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-python.python"
+            ]
+        }
+    }
+}
